@@ -1,0 +1,26 @@
+{
+    "name": "demonkoryu/php-simple-html-dom",
+    "description": "Clone of http://sourceforge.net/projects/simplehtmldom/",
+    "version": "1.5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Schlick",
+            "homepage": "http://john_schlick.users.sourceforge.net/",
+            "role": "Developer"
+        },
+        {
+            "name": "Tobias Hoffmann",
+            "email": "hoffmann@rts.de",
+            "role": "Github clone creator, composer.json maker"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "files": [
+            "simple_html_dom.php"
+        ]
+    }    
+}
